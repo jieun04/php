@@ -40,7 +40,7 @@
 <br>
   
 <div class="내 사이트">
-  <h3>사이트</h3>
+  <h3>php site</h3>
 </div>
 
 </body>
