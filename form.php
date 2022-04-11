@@ -40,14 +40,14 @@
 <br>
 
 <div class="container">
-  <form action="/action_page.php">
-      <h3>검색</h3>
-    <div class="form-group">
-      <input type="text" class="form-control" id="text" placeholder="검색어입력" name="text">
-    </div>
+  <h2>검색어</h2>
+  <form class="form-inline" action="/action.php" method="get">
+    <label for="keyword">검색어:</label>
+    <input type="keyword" class="form-control" id="keyword" placeholder="검색하기" name="keyword">
     <button type="submit" class="btn btn-primary">검색</button>
   </form>
-</div>
+  </div>
+
 
 </body>
 </html>
