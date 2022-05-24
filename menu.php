@@ -12,5 +12,8 @@
     <li class="nav-item">
         <a class="nav-link" href="/login.php">login</a>
     </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/slist.php">검색 리스트</a>
+    </li>
   </ul>
 </nav>
