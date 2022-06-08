@@ -10,10 +10,11 @@
       <a class="nav-link" href="/form.php">serch</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="/login.php">login</a>
+        <a class="nav-link" href="/slist.php">serch list</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="/slist.php">검색 리스트</a>
+        <a class="nav-link" href="/login.php">login</a>
     </li>
+    
   </ul>
 </nav>

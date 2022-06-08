@@ -24,7 +24,7 @@ include 'menu.php';
 <br>
   
 <div class="내 사이트">
-  <h3>검색리스트</h3>
+  <h3>sertch list</h3>
  
 </div>
 
@@ -99,7 +99,7 @@ function showmodal(seq, keyword){
 
 // 수정 버튼
 function modi(){
-  var ret = confirm("수정 할래?");
+  var ret = confirm("수정 하겠습니까?");
   if (ret != true) {
     //alert("삭제 되었습니다");
     return;
@@ -125,7 +125,7 @@ function modi(){
 }
 
 function del(seq){
-  var ret = confirm("삭제 할래?");
+  var ret = confirm("삭제 하겠습니까?");
   if (ret != true) {
     //alert("삭제 되었습니다");
     return;
