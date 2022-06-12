@@ -11,16 +11,9 @@
 </head>
 <body>
 
-<div class="container"> 
-  <h3>my site</h3>
-</div>
-
-<?php
-include 'menu.php';
-?>
+<script>
+  location.href="/controller.php?mode=main";
+</script>
   
-  <div class="container-fluid">
-    <h3>내 사이트</h3>
-  </div>
 </body>
 </html>
